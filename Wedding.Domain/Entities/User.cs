@@ -1,4 +1,5 @@
-﻿namespace Domain.Entities;
+﻿
+namespace Domain.Entities;
 
 public class User
 {
@@ -11,4 +12,5 @@ public class User
 
     // Relation: Comments
     public List<Comment> Comments { get; set; } = new();
+    public DateTime CreatedAt { get; set; }
 }

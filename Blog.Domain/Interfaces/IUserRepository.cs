@@ -1,7 +1,6 @@
-﻿using Domain.Entites;
+﻿using Domain.Entities;
 
-namespace Application.Interfaces;
-
+namespace Blog.Aplication.Interfaces;
 
 public interface IUserRepository
 {

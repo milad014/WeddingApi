@@ -1,5 +1,6 @@
-﻿using Domain.Entites;
-namespace Application.Interfaces;
+﻿using Domain.Entities;
+
+namespace Blog.Aplication.Interfaces;
 
 public interface IPostRepository
 {

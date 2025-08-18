@@ -1,8 +1,8 @@
-﻿using Application.Interfaces;
+﻿using Blog.Aplication.Interfaces;
 using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure.Repositories;
+namespace Blog.DataAccess;
 
 public class UserRepository : IUserRepository
 {
@@ -32,3 +32,4 @@ public class UserRepository : IUserRepository
             .Include(u => u.Comments)
             .FirstOrDefaultAsync(u => u.Id == id);
     }
+}

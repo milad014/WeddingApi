@@ -1,19 +1,21 @@
-﻿using Domain.Entity;
+﻿using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure;
+namespace Blog.DataAccess;
 
 
 public class AppDbContext : DbContext
 {
-    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
-    {
-        public DbSet<User> Users => Set<User>();
-        public DbSet<Post> Posts => Set<Post>();
-        public DbSet<Comment> Comments => Set<Comment>();
-    }
+    public AppDbContext() { }
 
- protected override void OnModelCreating(ModelBuilder modelBuilder)
+    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+
+
+    public DbSet<User> Users => Set<User>();
+    public DbSet<Post> Posts => Set<Post>();
+    public DbSet<Comment> Comments => Set<Comment>();
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
 

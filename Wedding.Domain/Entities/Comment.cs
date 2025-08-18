@@ -13,4 +13,5 @@ public class Comment
     // Relation: User (Author of comment)
     public int UserId { get; set; }
     public User User { get; set; } = null!;
+    public string Author { get; set; }
 }
