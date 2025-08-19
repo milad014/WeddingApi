@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Aplication.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.domain\\implement\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Aplication.csproj|solutionrelative:blog.domain\\implement\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.dataaccess\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|solutionrelative:blog.dataaccess\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.dataaccess\\migrations\\20250819100519_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|solutionrelative:blog.dataaccess\\migrations\\20250819100519_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Aplication.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Aplication.csproj|solutionrelative:blog.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7187690-850F-48B4-9FC3-716A11C06C04}|Blog.Api\\Blog.Api.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7187690-850F-48B4-9FC3-716A11C06C04}|Blog.Api\\Blog.Api.csproj|solutionrelative:blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Aplication.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.domain\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,56 +27,12 @@
       "RelativeMoniker": "D:0:0:{9E878E47-274B-4D24-BA26-5BFBBD8ECF55}|Wedding.Domain\\Blog.Domain.csproj|solutionrelative:wedding.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.dataaccess\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|solutionrelative:blog.dataaccess\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Aplication.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.domain\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Aplication.csproj|solutionrelative:blog.domain\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.dataaccess\\blog.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|solutionrelative:blog.dataaccess\\blog.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.dataaccess\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|solutionrelative:blog.dataaccess\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7187690-850F-48B4-9FC3-716A11C06C04}|Blog.Api\\Blog.Api.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7187690-850F-48B4-9FC3-716A11C06C04}|Blog.Api\\Blog.Api.csproj|solutionrelative:blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.dataaccess\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|solutionrelative:blog.dataaccess\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E878E47-274B-4D24-BA26-5BFBBD8ECF55}|Wedding.Domain\\Blog.Domain.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\wedding.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E878E47-274B-4D24-BA26-5BFBBD8ECF55}|Wedding.Domain\\Blog.Domain.csproj|solutionrelative:wedding.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.dataaccess\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|solutionrelative:blog.dataaccess\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7187690-850F-48B4-9FC3-716A11C06C04}|Blog.Api\\Blog.Api.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.api\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7187690-850F-48B4-9FC3-716A11C06C04}|Blog.Api\\Blog.Api.csproj|solutionrelative:blog.api\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Infrastructures.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Infrastructures.csproj|solutionrelative:blog.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Infrastructures.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.domain\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Infrastructures.csproj|solutionrelative:blog.domain\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78CAFCC-3AD4-4796-82EC-CC12ECFFC1D5}|Blog.DataAccess\\Blog.DataAccess.csproj|solutionrelative:blog.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Aplication.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.domain\\blog.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D9578237-F0F9-4A5C-9A76-3674CC526A44}|Blog.Domain\\Blog.Aplication.csproj|solutionrelative:blog.domain\\blog.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B7187690-850F-48B4-9FC3-716A11C06C04}|Blog.Api\\Blog.Api.csproj|c:\\users\\mo.davarzani\\desktop\\project\\weddingapi\\blog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7187690-850F-48B4-9FC3-716A11C06C04}|Blog.Api\\Blog.Api.csproj|solutionrelative:blog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,214 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CommentService.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Implement\\CommentService.cs",
-              "RelativeDocumentMoniker": "Blog.Domain\\Implement\\CommentService.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Implement\\CommentService.cs",
-              "RelativeToolTip": "Blog.Domain\\Implement\\CommentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20250819100519_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Migrations\\20250819100519_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Blog.DataAccess\\Migrations\\20250819100519_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Migrations\\20250819100519_InitialCreate.cs",
+              "RelativeToolTip": "Blog.DataAccess\\Migrations\\20250819100519_InitialCreate.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T12:33:12.588Z",
+              "WhenOpened": "2025-08-19T10:05:24.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Wedding.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Wedding.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Wedding.Domain\\Entities\\User.cs*",
-              "RelativeToolTip": "Wedding.Domain\\Entities\\User.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T12:31:52.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Implement\\UserService.cs",
-              "RelativeDocumentMoniker": "Blog.Domain\\Implement\\UserService.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Implement\\UserService.cs*",
-              "RelativeToolTip": "Blog.Domain\\Implement\\UserService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T12:29:10.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Interfaces\\ICommentRepository.cs",
-              "RelativeDocumentMoniker": "Blog.Domain\\Interfaces\\ICommentRepository.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Interfaces\\ICommentRepository.cs",
-              "RelativeToolTip": "Blog.Domain\\Interfaces\\ICommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T09:43:55.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Repository\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "Blog.DataAccess\\Repository\\CommentRepository.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Repository\\CommentRepository.cs",
-              "RelativeToolTip": "Blog.DataAccess\\Repository\\CommentRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAcwCcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T07:47:45.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Repository\\PostRepository.cs",
-              "RelativeDocumentMoniker": "Blog.DataAccess\\Repository\\PostRepository.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Repository\\PostRepository.cs",
-              "RelativeToolTip": "Blog.DataAccess\\Repository\\PostRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T07:48:56.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Blog.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Api\\Program.cs",
-              "RelativeToolTip": "Blog.Api\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T08:00:27.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Wedding.Domain\\Entities\\Post.cs",
-              "RelativeDocumentMoniker": "Wedding.Domain\\Entities\\Post.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Wedding.Domain\\Entities\\Post.cs",
-              "RelativeToolTip": "Wedding.Domain\\Entities\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T07:47:06.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\DbContext\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Blog.DataAccess\\DbContext\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\DbContext\\AppDbContext.cs",
-              "RelativeToolTip": "Blog.DataAccess\\DbContext\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T08:02:54.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Blog.DataAccess",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Blog.DataAccess.csproj",
-              "RelativeDocumentMoniker": "Blog.DataAccess\\Blog.DataAccess.csproj",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Blog.DataAccess.csproj",
-              "RelativeToolTip": "Blog.DataAccess\\Blog.DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-18T07:48:35.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Blog.DataAccess\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Blog.DataAccess\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA2wAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T09:00:57.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Api\\PostRepository.cs",
-              "RelativeDocumentMoniker": "Blog.Api\\PostRepository.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Api\\PostRepository.cs",
-              "RelativeToolTip": "Blog.Api\\PostRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T09:48:08.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Blog.Domain\\Interfaces\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "Blog.Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T07:42:29.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IPostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Interfaces\\IPostRepository.cs",
-              "RelativeDocumentMoniker": "Blog.Domain\\Interfaces\\IPostRepository.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Interfaces\\IPostRepository.cs",
-              "RelativeToolTip": "Blog.Domain\\Interfaces\\IPostRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T08:36:29.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "Blog.DataAccess\\Class1.cs",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Class1.cs",
-              "RelativeToolTip": "Blog.DataAccess\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T09:41:25.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Blog.Aplication.csproj",
-              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Blog.Aplication.csproj",
-              "RelativeDocumentMoniker": "Blog.Domain\\Blog.Aplication.csproj",
-              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Blog.Aplication.csproj",
-              "RelativeToolTip": "Blog.Domain\\Blog.Aplication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-18T07:31:06.668Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:54:19.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Wedding.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Wedding.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Wedding.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Wedding.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:46:00.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Blog.DataAccess\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Blog.DataAccess\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:45:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Implement\\UserService.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Implement\\UserService.cs",
+              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Domain\\Implement\\UserService.cs",
+              "RelativeToolTip": "Blog.Domain\\Implement\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:04:27.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Blog.DataAccess\\DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.DataAccess\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "Blog.DataAccess\\DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAzwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:26:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Blog.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Blog.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T07:21:30.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Blog.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\mo.davarzani\\Desktop\\project\\WeddingApi\\Blog.Api\\Program.cs",
+              "RelativeToolTip": "Blog.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:31:01.407Z",
               "EditorCaption": ""
             }
           ]

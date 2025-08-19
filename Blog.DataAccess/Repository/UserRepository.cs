@@ -1,4 +1,4 @@
-﻿using Blog.Aplication.Interfaces;
+﻿using Blog.Application.Interfaces;
 using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 

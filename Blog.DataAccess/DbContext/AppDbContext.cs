@@ -1,44 +1,41 @@
 ﻿using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Blog.DataAccess;
-
-
-public class AppDbContext : DbContext
+namespace Blog.DataAccess
 {
-    public AppDbContext() { }
-
-    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
-
-
-    public DbSet<User> Users => Set<User>();
-    public DbSet<Post> Posts => Set<Post>();
-    public DbSet<Comment> Comments => Set<Comment>();
-
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    public class AppDbContext : DbContext
     {
-        base.OnModelCreating(modelBuilder);
+        public AppDbContext() { }
 
-        // User ↔ Post (1:N)
-        modelBuilder.Entity<User>()
-            .HasMany(u => u.Posts)
-            .WithOne(p => p.Author)
-            .HasForeignKey(p => p.AuthorId)
-            .OnDelete(DeleteBehavior.Cascade);
+        public AppDbContext(DbContextOptions<AppDbContext> options)
+            : base(options)
+        { }
 
-        // User ↔ Comment (1:N)
+        public DbSet<User> Users => Set<User>();
+        public DbSet<Post> Posts => Set<Post>();
+        public DbSet<Comment> Comments => Set<Comment>();
 
-        modelBuilder.Entity<User>()
-       .HasMany(u => u.Comments)
-       .WithOne(c => c.User)
-       .HasForeignKey(c => c.UserId)
-       .OnDelete(DeleteBehavior.Cascade);
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
 
-        // Post ↔ Comment (1:N)
-        modelBuilder.Entity<Post>()
-            .HasMany(p => p.Comments)
-            .WithOne(c => c.Post)
-            .HasForeignKey(c => c.PostId)
-            .OnDelete(DeleteBehavior.Cascade);
+            modelBuilder.Entity<User>()
+                .HasMany(u => u.Posts)
+                .WithOne(p => p.Author)
+                .HasForeignKey(p => p.AuthorId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<User>()
+                .HasMany(u => u.Comments)
+                .WithOne(c => c.User)
+                .HasForeignKey(c => c.UserId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<Post>()
+                .HasMany(p => p.Comments)
+                .WithOne(c => c.Post)
+                .HasForeignKey(c => c.PostId)
+                .OnDelete(DeleteBehavior.Cascade);
+        }
     }
 }

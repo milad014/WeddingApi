@@ -1,7 +1,7 @@
-﻿using Blog.Aplication.Interfaces;
+﻿using Blog.Application.Interfaces;
 using Domain.Entities;
 
-namespace Blog.Aplication.Implement;
+namespace Blog.Application.Implement;
 
 public class CommentService
 {

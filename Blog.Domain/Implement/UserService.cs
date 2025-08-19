@@ -1,7 +1,7 @@
-﻿using Blog.Aplication.Interfaces;
+﻿using Blog.Application.Interfaces;
 using Domain.Entities;
 
-namespace Blog.Aplication.Implement;
+namespace Blog.Application.Implement;
 public class UserService
 {
     private readonly IUserRepository _userRepository;
@@ -24,10 +24,8 @@ public class UserService
 
     public async Task<User> CreateUserAsync(string username, string email)
     {
-        var user = new User
+        var user = new User(username, email)
         {
-            Name = username,
-            Email = email,
             CreatedAt = DateTime.UtcNow
         };
 
